@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Day-2\GoToExample\GoToExample\bin\Debug\GoToExample.exe.config
+C:\Users\HP\Desktop\Indeed\Day-2\GoToExample\GoToExample\bin\Debug\GoToExample.exe
+C:\Users\HP\Desktop\Indeed\Day-2\GoToExample\GoToExample\bin\Debug\GoToExample.pdb
+C:\Users\HP\Desktop\Indeed\Day-2\GoToExample\GoToExample\obj\Debug\GoToExample.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Day-2\GoToExample\GoToExample\obj\Debug\GoToExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Day-2\GoToExample\GoToExample\obj\Debug\GoToExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Day-2\GoToExample\GoToExample\obj\Debug\GoToExample.exe
+C:\Users\HP\Desktop\Indeed\Day-2\GoToExample\GoToExample\obj\Debug\GoToExample.pdb
